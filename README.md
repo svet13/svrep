@@ -1,2 +1,4 @@
 # svrep
-My first repository on GitHub.
+Hi, everyone!
+I'm Sveta and it's my first repository on GitHub.
+I love :movies:
